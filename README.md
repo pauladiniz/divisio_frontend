@@ -7,6 +7,7 @@ A simple "to do" application I named List Me.
 * Materialize
 * Flexbox
 * Create React App
+* Okta
 
 ### Running the app
 
