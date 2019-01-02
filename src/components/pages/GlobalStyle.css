@@ -1,0 +1,22 @@
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .Aligner-item {
+    padding-top: 100px;
+    align-self: flex-center;
+    font-size: 30px;
+  }
+   
+  .card-panel {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .collection-item {
+    font-size: 18px;
+  }
