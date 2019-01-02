@@ -16,7 +16,7 @@ Application should be running on http://localhost:3000/
 
 ### PASSWORD 
 
-Since this is a mock up, I set up a e-mail and password for the login with Okta.
+Since this is a mock up, I set up an e-mail and password for the login with Okta.
 
 e-mail: bomdiapaulaa@gmail.com
 password: Divisio123
