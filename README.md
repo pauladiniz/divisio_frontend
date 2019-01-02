@@ -13,11 +13,11 @@ https://listme.netlify.com/
 ### Running the app
 
 - Download the repository
+- Open your terminal and then cd path/to/the/folder
+- npm install [To make sure node_modules are installed]
 - npm start
 
 Application should be running on http://localhost:3000/
-
-You might want to make sure your NodeJS is installed.
 
 ### PASSWORD 
 
