@@ -6,6 +6,7 @@ A simple "to do" application I named List Me.
 * ReactJS
 * Materialize
 * Flexbox
+* Create React App
 
 ### Running the app
 
@@ -13,6 +14,8 @@ A simple "to do" application I named List Me.
 - npm start
 
 Application should be running on http://localhost:3000/
+
+You might want to make sure your NodeJS is installed.
 
 ### PASSWORD 
 
