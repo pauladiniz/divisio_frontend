@@ -9,7 +9,9 @@ A simple to do application I named List Me.
 
 ### Running the app
 
-npm start
+- Download the repository
+- npm start
+
 Application should be running on http://localhost:3000/
 
 ### PASSWORD 
