@@ -1,6 +1,6 @@
 ## Divisio - Teste
 
-A simple to do application I named List Me.
+A simple "to do application I named List Me.
 
 ### Built With
 * ReactJS
