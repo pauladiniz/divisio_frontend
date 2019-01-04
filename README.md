@@ -1,6 +1,7 @@
 ## Divisio - Teste
 
 A simple "to do" application I named List Me.
+Run the project locally, Netlify's still on test.
 
 ### Built With
 * ReactJS
